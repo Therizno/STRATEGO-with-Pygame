@@ -1,0 +1,19 @@
+The object of the game is to capture your opponent's flag.
+
+Each player gets an army of 32 standard pieces, each ranked 1 - 9 in power.
+Additionally, each player gets 6 Bombs, a Spy, and a Flag piece.
+Each player arranges their pieces on their side of the board before the game begins, leaving two empty rows in the middle.
+
+Pieces can be moved one square in any non-diagonal direction, with the exception of the Scout.
+The Scout (rank 9) piece can move an unlimited number of squares in any non-diagonal direction.
+The bomb and flag pieces cannot move.
+Two lakes in the middle of the board serve as obstacles to movement.
+
+When one piece attacks another, their ranks are compared, and the lower ranked piece is captured and removed from the field.
+Example: Marshal (rank 1) vs. Sergeant (rank 7) the Sergeant is captured.
+If the two pieces are equally ranked, both are captured.
+The Bomb pieces defeat all pieces except for the Miners (rank 8) who have the ability to defuse them.
+The Spy is defeated by all pieces except the Marshal (rank 1), however the spy only wins if he attacks first.
+Any piece can capture the flag.
+
+Click anywhere to continue
